@@ -1,0 +1,41 @@
+.hoja{
+    width: 100%; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+}
+h1{
+    text-align: center;   
+    color: aliceblue;
+} 
+
+h2{
+    text-align: center;
+    color: aliceblue;
+} 
+
+p{
+    text-align: justify; 
+}
+
+.img{
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 25%; 
+    margin-top: 10px;
+} 
+
+#titulo{
+    background-color: rgb(27, 48, 77); 
+    width: 100%;
+}  
+
+#about{ 
+    margin-top: 10px;
+    background-color: rgb(27, 48, 77); 
+    width: 100%;
+}  
+
